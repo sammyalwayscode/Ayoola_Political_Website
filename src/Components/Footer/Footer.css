@@ -1,0 +1,45 @@
+.generalFooter{
+  height: 80px;
+  width: 100vw;
+  background-color: #282e3f;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.generalFooterWidth{
+  width: 1000px;
+  /* background-color: rebeccapurple; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/* .footerLogoDiv{
+
+} */
+
+.footerSocials{
+  width: 250px;
+  /* background-color: green; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.footerNavs{
+  width: 380px;
+  /* background-color: green; */
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}

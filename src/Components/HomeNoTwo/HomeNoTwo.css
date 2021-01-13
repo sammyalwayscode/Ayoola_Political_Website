@@ -1,0 +1,23 @@
+.generalHomeNoTwoDiv{
+  height: 379px;
+  width: 100vw;
+  background-color: #1b5697;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.noTwoTextDiv{
+  width: 992px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.noTwoTextDiv > p {
+  font-size: xx-large;
+}

@@ -1,0 +1,33 @@
+.generalHeader{
+  height: 70px;
+  width: 100vw;
+  background-color: #282e3f;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoAndNavDivWidthHolder{
+  width: 1100px;
+  /* background-color: red; */
+}
+
+.logoAndNavDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoDiv{
+
+}
+
+.navDiv{
+  width: 400px;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}

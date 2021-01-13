@@ -1,0 +1,57 @@
+.generalHomeNoOneDiv{
+  height: 570px;
+  width: 100vw;
+  background-color: #282e3f;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.meetCardDiv{
+  height:540px ;
+  width:1104px ;
+  background-color:#e1e1e1 ;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.meetCardWithHolder{
+ width: 1035px;
+ /* background-color: darkolivegreen; */
+}
+
+.meetPixTextDiv{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.meetImageDiv{
+  height: 478px;
+  width: 343px ;
+  background-color: darkred;
+}
+
+.meetTextDiv{
+  width: 662px;
+  /* background-color: darkgoldenrod; */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.meetTextDiv > h2{
+  font-size: 35px;
+}
+
+.meetTextDiv > p {
+  font-size: x-large;
+}

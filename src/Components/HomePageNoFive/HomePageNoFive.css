@@ -1,0 +1,36 @@
+.HomeAwardMain{
+  height: 540px;
+  width: 100vw;
+  /* background-color: brown; */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.AwardWidtholder{
+  width: 1100px;
+  /* background-color: aqua; */
+  display: flex;
+  /* flex-direction: ; */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  /* text-align: center; */
+
+}
+
+@media (max-width: 768px) {
+  .HomeAwardMain{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .AwardWidtholder{
+    justify-content: center;
+    /* align-items: stretch; */
+  }
+}

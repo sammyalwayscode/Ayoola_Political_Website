@@ -1,0 +1,21 @@
+.generalAbout{
+ height: 100%;
+ width: 100vw;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.aboutTitle{
+  height: 70px;
+  width: 100vw;
+  background-color: #1b5697;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+.aboutWidthDiv{
+  width: 1100px;
+}
